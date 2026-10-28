@@ -1,0 +1,8 @@
+{
+  "name": "alight-motion-magiclink",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Frontend for authorized Magic Link/account verification/premium API workflows on Vercel",
+  "scripts": { "dev": "vercel dev" },
+  "devDependencies": { "vercel": "^39.2.0" }
+}
